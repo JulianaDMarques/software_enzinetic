@@ -174,19 +174,6 @@ python tela_final_MM.py
 ## 📈 Saída de resultados
 * **Parâmetros estimados** (Km, Vmax, Kcat ou constantes k₁…k₄).  
 * **Gráficos** salvos via botão direito (Matplotlib).  
-* Métricas de qualidade (R², MSE, MAE) impressas no terminal.
 
----
-
-## 🤝 Contribuindo
-1. Faça um *fork* do projeto.  
-2. Crie uma branch: `git checkout -b feature/nova-funcionalidade`  
-3. *Commit* suas mudanças.  
-4. Envie um *pull request*.
-
----
-
-## 📝 Licença
-Distribuído sob a licença **MIT**. Consulte `LICENSE` para mais detalhes.
 
 
