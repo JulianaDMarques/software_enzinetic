@@ -2,7 +2,7 @@
 Interface gráfica em Python (PyQt5) para cinética **Ping Pong Bi‑Bi** e **Michaelis‑Menten**
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![GUI](https://img.shields.io/badge/GUI-PyQt5-lightgrey)
+![GUI](https://img.shields.io/badge/GUI-PyQt5-green)
 
 
 
