@@ -72,12 +72,12 @@ v = \frac{V_\text{máx}\,[A][B]}{K_{mB}[A] + K_{mA}[B] + [A][B]}
 
 | Constante | Significado |
 |-----------|-------------|
-| \(V_\text{máx}=k_{4}[E]_0\) | Velocidade máxima global |
-| \(K_{mA}\) e \(K_{mB}\) | Constantes de Michaelis aparentes para A e B |
+| $\(V_\text{máx}=k_{4}[E]_0\)$ | Velocidade máxima global |
+| $\(K_{mA}\) e \(K_{mB}\)$ | Constantes de Michaelis aparentes para A e B |
 
 #### 3.1  Características cinéticas  
-* **Plots Lineweaver–Burk** de \(1/v\) vs \(1/[A]\) (com \([B]\) fixos) resultam em **retas paralelas**, diagnóstico típico de mecanismos Ping Pong.  
-* Ajuste global é efetuado variando‑se simultaneamente \([A]\) e \([B]\) e minimizando o erro quadrático médio.
+* **Plots Lineweaver–Burk** de $\(1/v\)$ vs $\(1/[A]\)$ $(com \([B]\) fixos)$ resultam em **retas paralelas**, diagnóstico típico de mecanismos Ping Pong.  
+* Ajuste global é efetuado variando‑se simultaneamente $\([A]\)$ e $\([B]\)$ e minimizando o erro quadrático médio.
 
 ---
 ## ✨ Visão geral do software
