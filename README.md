@@ -11,9 +11,11 @@ Interface gráfica em Python (PyQt5) para cinética **Ping Pong Bi‑Bi** e **
 ## 🔬 Introdução teórica
 
 ### 1. Enzimas   
-   As **enzimas** são macromoléculas proteica que aceleram reações bioquímicas ao **reduzir a energia de ativação** do processo, sem alterar o equilíbrio químico global. Em virtude das enzimas, é importante compreender não apenas as suas propriedades intrínsecas, mas também os parâmetros cinéticos para analisar a velocidade das reações catalisadoras e os fatores químicos e físicos que podem afetar sua atividade (Johnson, 2021). Perante isto, Michaelis e Menten apresentaram um modelo para explicar como a velocidade das reações das enzimas, variam com a concentração de substrato. Segundo este modelo, ilustrado pelo esquema abaixo, primeiramente o excesso de substrato (S) e a enzima (E) se ligam reversivelmente para formar o complexo enzima-substrato (ES), no processo seguinte, ocorre a separação do complexo e formação do produto (P) junto com a liberação da enzima livre (E) (Dixon; Webb, 1979).
+   As **enzimas** são macromoléculas proteica que aceleram reações bioquímicas ao **reduzir a energia de ativação** do processo, sem alterar o equilíbrio químico global. Em virtude das enzimas, é importante compreender não apenas as suas propriedades intrínsecas, mas também os parâmetros cinéticos para analisar a velocidade das reações catalisadoras e os fatores químicos e físicos que podem afetar sua atividade (Johnson, 2021). Perante isto, Michaelis e Menten apresentaram um modelo para explicar como a velocidade das reações das enzimas, variam com a concentração de substrato. 
 
 ### 2. Mecanismo Cinética de Michaelis–Menten  
+   Segundo este modelo, ilustrado pelo esquema abaixo, primeiramente o excesso de substrato (S) e a enzima (E) se ligam reversivelmente para formar o complexo enzima-substrato (ES), no processo seguinte, ocorre a separação do complexo e formação do produto (P) junto com a liberação da enzima livre (E).
+
 O modelo elementar postula o ciclo:  
 
  E + S ⟷ ES ⟶ P + E
