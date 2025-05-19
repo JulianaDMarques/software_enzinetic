@@ -1,4 +1,4 @@
-# Modelagem & Simulação de Reações Enzimáticas  
+# Simulação e Modelagem de Reações Enzimáticas  
 Interface gráfica em Python (PyQt5) para cinética **Ping Pong Bi‑Bi** e **Michaelis‑Menten**
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
