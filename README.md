@@ -47,6 +47,9 @@ v = \frac{V_\text{máx}\,[S]}{K_m + [S]}
 ### 3. Mecanismo Ping Pong Bi‑Bi 
 Oo método de Michaelis-Menten, proposto para reações com um único substrato, tornou-se base para estudos de novas técnicas de cinética enzimática, tais como o mecanismo de Ping-Pong Bi-Bi, que fornece uma metodologia mais ampliada de reações de multi-substrato em sistemas enzimáticos complexos (Gonçalves et al., 2021). Dito isso, abaixo, encontra-se esquematizado o funcionamento do mecanismo de Ping Pong Bi-Bi envolvendo reação com **dois substratos (A, B)** e **dois produtos (P, Q)**:
 
+
+E ⟶_S1
+
 \[
 \begin{aligned}
 E + A $&\xrightleftharpoons[k_{-1}]{k_{1}} EA \xrightarrow{k_{2}} E^\* + P \\$
@@ -54,13 +57,18 @@ E^\* + B &\xrightleftharpoons[k_{-3}]{k_{3}} E^\*B \xrightarrow{k_{4}} E + Q
 \end{aligned}
 \]
 
-A enzima alterna entre as formas **\(E\)** e **\(E^\*\)**, liberando P antes de se ligar a B—dando origem ao termo *ping‑pong*.
+Dado o esquema anterior, pode-se analisar que, o primeiro substrato se liga a
+enzima (E), formando-se o primeiro complexo enzima-substrato ES1 (Ping), gerando, o
+primeiro produto E′P1 (Bi). A enzima livre (E), no qual teve sua conformação modificada
+(E′), liga-se a um segundo substrato (S2), formando um novo complexo enzima-substrato
+ES2 (Pong) e por fim, a enzima volta para sua conformação inicial e o segundo produto
+é liberado P2 (Bi)
 
 A expressão de velocidade inicial (assumindo estado estacionário) é:
 
-\[
+$\[
 v = \frac{V_\text{máx}\,[A][B]}{K_{mB}[A] + K_{mA}[B] + [A][B]}
-\]
+\]$
 
 | Constante | Significado |
 |-----------|-------------|
