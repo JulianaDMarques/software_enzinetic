@@ -20,17 +20,19 @@ O modelo elementar postula o ciclo:
 
  E + S ⟷ ES ⟶ P + E
 
-Aplicando a **hipótese do estado estacionário** (\(\frac{d[ES]}{dt}=0\)) obtém‑se a equação de velocidade inicial:
+A partir do esquema prévio, a seta na primeira etapa, indica a reversibilidade entre o complexo enzima-substrato (ES), e na segunda etapa, representa a taxa de moléculas de substrato convertidas em produto por molécula de enzima em unidade de tempo (Dixon; Webb, 1979). 
 
-\[
+* Aplicando a **hipótese do estado estacionário** $(\(\frac{d[ES]}{dt}=0\))$ obtém‑se a equação de velocidade inicial:
+
+$\[
 v = \frac{V_\text{máx}\,[S]}{K_m + [S]}
-\]
+\]$
 
 | Constante | Definição | Interpretação |
 |-----------|-----------|---------------|
-| \(V_\text{máx}=k_{2}[E]_0\) | Velocidade máxima | Condição de saturação (\([S]\gg K_m\)) |
-| \(K_m=\dfrac{k_{-1}+k_{2}}{k_{1}}\) | Constante de Michaelis | Medida inversa da afinidade \(E\)–\(S\) |
-| \(k_\text{cat}=k_{2}\) | Constante catalítica | Nº de moléculas de produto geradas por enzima·s |
+| $\(V_\text{máx}=k_{2}[E]_0\)$ | Velocidade máxima | Condição de saturação $(\([S]\gg K_m\))$ |
+| $\(K_m=\dfrac{k_{-1}+k_{2}}{k_{1}}\)$ | Constante de Michaelis | Medida inversa da afinidade $\(E\)–\(S\)$ |
+| $\(k_\text{cat}=k_{2}\)$ | Constante catalítica | Nº de moléculas de produto geradas por enzima·s |
 
 #### 2.1  Determinação experimental  
 * **Ajuste não‑linear** (preferível): regressão direta da equação de Michaelis–Menten sobre \(v\) vs \([S]\).  
@@ -38,16 +40,16 @@ v = \frac{V_\text{máx}\,[S]}{K_m + [S]}
 
 | Transformação | Equação | Gráfico |
 |---------------|---------|---------|
-| **Lineweaver–Burk** | \(\frac{1}{v}=\frac{K_m}{V_\text{máx}}\frac{1}{[S]}+\frac{1}{V_\text{máx}}\) | Reta; intercepto \(=1/V_\text{máx}\); inclinação \(=K_m/V_\text{máx}\) |
-| **Eadie–Hofstee** | \(v = -K_m\frac{v}{[S]} + V_\text{máx}\) | Reta em \(v\) vs \(v/[S]\) |
-| **Hanes–Woolf** | \(\frac{[S]}{v}=\frac{[S]}{V_\text{máx}}+\frac{K_m}{V_\text{máx}}\) | Reta em \([S]/v\) vs \([S]\) |
+| **Lineweaver–Burk** | $\(\frac{1}{v}=\frac{K_m}{V_\text{máx}}\frac{1}{[S]}+\frac{1}{V_\text{máx}}\)$ | Reta; intercepto $\(=1/V_\text{máx}\); inclinação \(=K_m/V_\text{máx}\)$ |
+| **Eadie–Hofstee** | $\(v = -K_m\frac{v}{[S]} + V_\text{máx}\)$ | Reta em $\(v\)$ vs $\(v/[S]\)$ |
+| **Hanes–Woolf** | $\(\frac{[S]}{v}=\frac{[S]}{V_\text{máx}}+\frac{K_m}{V_\text{máx}}\)$ | Reta em $\([S]/v\)$ vs $\([S]\)$ |
 
 ### 3. Mecanismo Ping Pong Bi‑Bi 
-Reação geral envolvendo **dois substratos (A, B)** e **dois produtos (P, Q)**:
+Oo método de Michaelis-Menten, proposto para reações com um único substrato, tornou-se base para estudos de novas técnicas de cinética enzimática, tais como o mecanismo de Ping-Pong Bi-Bi, que fornece uma metodologia mais ampliada de reações de multi-substrato em sistemas enzimáticos complexos (Gonçalves et al., 2021). Dito isso, abaixo, encontra-se esquematizado o funcionamento do mecanismo de Ping Pong Bi-Bi envolvendo reação com **dois substratos (A, B)** e **dois produtos (P, Q)**:
 
 \[
 \begin{aligned}
-E + A &\xrightleftharpoons[k_{-1}]{k_{1}} EA \xrightarrow{k_{2}} E^\* + P \\
+E + A $&\xrightleftharpoons[k_{-1}]{k_{1}} EA \xrightarrow{k_{2}} E^\* + P \\$
 E^\* + B &\xrightleftharpoons[k_{-3}]{k_{3}} E^\*B \xrightarrow{k_{4}} E + Q
 \end{aligned}
 \]
