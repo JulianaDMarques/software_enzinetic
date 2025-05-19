@@ -45,7 +45,7 @@ v = \frac{V_\text{máx}\,[S]}{K_m + [S]}
 | **Hanes–Woolf** | $\(\frac{[S]}{v}=\frac{[S]}{V_\text{máx}}+\frac{K_m}{V_\text{máx}}\)$ | Reta em $\([S]/v\)$ vs $\([S]\)$ |
 
 ### 3. Mecanismo Ping Pong Bi‑Bi 
-Oo método de Michaelis-Menten, proposto para reações com um único substrato, tornou-se base para estudos de novas técnicas de cinética enzimática, tais como o mecanismo de Ping-Pong Bi-Bi, que fornece uma metodologia mais ampliada de reações de multi-substrato em sistemas enzimáticos complexos (Gonçalves et al., 2021). Dito isso, abaixo, encontra-se esquematizado o funcionamento do mecanismo de Ping Pong Bi-Bi envolvendo reação com **dois substratos (A, B)** e **dois produtos (P, Q)**:
+O método de Michaelis-Menten, proposto para reações com um único substrato, tornou-se base para estudos de novas técnicas de cinética enzimática, tais como o mecanismo de Ping-Pong Bi-Bi, que fornece uma metodologia mais ampliada de reações de multi-substrato em sistemas enzimáticos complexos (Gonçalves et al., 2021). Dito isso, abaixo, encontra-se esquematizado o funcionamento do mecanismo de Ping Pong Bi-Bi envolvendo reação com **dois substratos (A, B)** e **dois produtos (P, Q)**:
 
 
 E ⟶_S1
