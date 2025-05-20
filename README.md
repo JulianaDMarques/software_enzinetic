@@ -18,7 +18,7 @@ Interface gráfica em Python (PyQt5) para cinética **Ping Pong Bi‑Bi** e **
 
 O modelo elementar postula o ciclo:  
 
- E + S ⟷ ES ⟶ P + E
+![](https://latex.codecogs.com/svg.image?E&plus;S\leftrightarrow&space;ES\rightarrow&space;E&plus;P)
 
 A partir do esquema prévio, a seta na primeira etapa, indica a reversibilidade entre o complexo enzima-substrato (ES), e na segunda etapa, representa a taxa de moléculas de substrato convertidas em produto por molécula de enzima em unidade de tempo (Dixon; Webb, 1979). 
 
@@ -47,7 +47,7 @@ v = \frac{V_\text{máx}\,[S]}{K_m + [S]}
 ### 3. Mecanismo Ping Pong Bi‑Bi 
 O método de Michaelis-Menten, proposto para reações com um único substrato, tornou-se base para estudos de novas técnicas de cinética enzimática, tais como o mecanismo de Ping-Pong Bi-Bi, que fornece uma metodologia mais ampliada de reações de multi-substrato em sistemas enzimáticos complexos (Gonçalves et al., 2021). Dito isso, abaixo, encontra-se esquematizado o funcionamento do mecanismo de Ping Pong Bi-Bi envolvendo reação com **dois substratos (A, B)** e **dois produtos (P, Q)**:
 
-
+![](https://latex.codecogs.com/svg.image?E\overset{S_1\downarrow}{\rightarrow}ES_1\leftrightarrow&space;E'P_1\overset{P_1\uparrow}{\rightarrow}E'\overset{S_2\downarrow}{\rightarrow}E'S_2\leftrightarrow&space;EP_2\overset{P_2\uparrow}{\rightarrow}E)
 
 Dado o esquema anterior, pode-se analisar que, o primeiro substrato se liga a
 enzima (E), formando-se o primeiro complexo enzima-substrato ES1 (Ping), gerando, o
