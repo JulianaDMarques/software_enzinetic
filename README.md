@@ -184,7 +184,7 @@ python tela_final_MM.py
 * **Parâmetros estimados** (Km, Vmax, Kcat ou constantes k₁…k₄).  
 * **Gráficos** salvos via botão direito (Matplotlib).  
 
-##  Referências bibliográficas
+## 📚 Referências bibliográficas
 * AGUILAR, M. C. V. Modelagem fenomenológica da síntese enzimática de biodiesel etanólico utilizando lipase solúvel. 2018. Dissertação (Mestrado em Engenharia Química) – Universidade Federal de São Carlos, São Carlos, 2018. Disponível em: https://repositorio.ufscar.br/handle/ufscar/11804. Acesso em: 10 de maio 2024.
 * DIXON, M.; WEBB, E.C. Enzymes. 3rd Ed. New York: Academic Press, 1979, 1116p.
 * GONÇALVES, M. C. P., AMARAL, J. C., FERNANDEZ-LAFUENTE, R., SOUSA JUNIOR, R. de, & TARDIOLI, P. W. (2021). Lipozyme 435-Mediated Synthesis of Xylose
