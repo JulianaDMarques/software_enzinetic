@@ -188,7 +188,7 @@ python tela_final_MM.py
 * AGUILAR, M. C. V. Modelagem fenomenológica da síntese enzimática de biodiesel etanólico utilizando lipase solúvel. 2018. Dissertação (Mestrado em Engenharia Química) – Universidade Federal de São Carlos, São Carlos, 2018. Disponível em: https://repositorio.ufscar.br/handle/ufscar/11804. Acesso em: 10 de maio 2024.
 * DIXON, M.; WEBB, E.C. Enzymes. 3rd Ed. New York: Academic Press, 1979, 1116p.
 * GONÇALVES, M. C. P., AMARAL, J. C., FERNANDEZ-LAFUENTE, R., SOUSA JUNIOR, R. de, & TARDIOLI, P. W. (2021). Lipozyme 435-Mediated Synthesis of Xylose
-Oleate in Methyl Ethyl Ketone. Molecules, 26(11), 3317. Disponível em: https: doi.org/10.3390/molecules26113317. Acesso em: 10 de maio 2025.
+Oleate in Methyl Ethyl Ketone. Molecules, 26(11), 3317. Disponível em: https:doi.org/10.3390/molecules26113317. Acesso em: 10 de maio 2025.
 * JOHNSON, A. W. Enzymes: Biochemical Catalysts. New York: Springer, 2021.
 * VALVANO, M. M. Desenvolvimento de algoritmos de simulação e modelagem computacional de reações enzimáticas em batelada em linguagem Python. 2023.
 * PYTHON SOFTWARE FOUNDATION. Python Language documentation, 2020. Disponível em: https://www.python.org/doc/versions/. Acesso em: 11 de maio 2024.
