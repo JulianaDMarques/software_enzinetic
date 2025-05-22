@@ -101,7 +101,6 @@ A aplicação fornece: simulação temporal de concentrações, ajuste paramétr
 ├── funcao_simulacao_michaelis.py
 ├── funcao_modelagem_michaelis.py
 ├── tela_final_MM.py          # Interface principal
-├── requirements.txt
 └── README.md
 ```
 
