@@ -96,6 +96,7 @@ A aplicação fornece: simulação temporal de concentrações, ajuste paramétr
 ```
 ├── data/                     # Exemplos de planilhas .xlsx
 ├── images/                   # Logos e ícones para a GUI
+├── requirements.txt          # Bibliotecas necessárias
 ├── funcao_simulacao_final.py
 ├── funcoes_modelagem_final.py
 ├── funcao_simulacao_michaelis.py
@@ -116,18 +117,6 @@ A aplicação fornece: simulação temporal de concentrações, ajuste paramétr
    ```bash
    pip install -r requirements.txt
    ```
-
-**`requirements.txt` (sugestão)**  
-```text
-PyQt5>=5.15
-numpy
-pandas
-matplotlib
-scipy
-scikit-learn
-```
-
----
 
 ## 🚀 Executando a aplicação
 ```bash
