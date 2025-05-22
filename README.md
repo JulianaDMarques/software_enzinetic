@@ -112,14 +112,7 @@ A aplicação fornece: simulação temporal de concentrações, ajuste paramétr
    git clone https://github.com/JulianaDMarques/software_enzinetic
    ```
 
-2. (Opcional) Crie um ambiente virtual  
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate   # Linux/macOS
-   .venv\Scripts\activate      # Windows
-   ```
-
-3. Instale as dependências  
+2. Instale as dependências  
    ```bash
    pip install -r requirements.txt
    ```
