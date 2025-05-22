@@ -109,8 +109,7 @@ A aplicação fornece: simulação temporal de concentrações, ajuste paramétr
 ## ⚙️ Instalação
 1. Clone o repositório  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
-   cd seu-repo
+   git clone https://github.com/JulianaDMarques/software_enzinetic
    ```
 
 2. (Opcional) Crie um ambiente virtual  
